@@ -33,4 +33,6 @@
   
 </div>
 
-<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&" alt="prkr-28" /></p>
+<div align="centre">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&" alt="prkr-28" /></p>
+</div>
