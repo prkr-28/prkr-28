@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20views&color=0e75b6&style=flat" alt="prkr-28" /> </p>
 
 - 👋 Hey! I am Priyanshu
 
-- 🌱 I’m currently learning **React, Spring, Springboot**
+- 🌱 I’m currently learning **Reactjs, nodejs, express framework**
 
 - 📫 How to reach me **priyanshu402muz@gmail.com**
 
