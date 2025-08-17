@@ -1,38 +1,63 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20views&color=0e75b6&style=flat" alt="prkr-28" /> </p>
-
-- 👋 Hey! I am Priyanshu
-
-- 🌱 I’m currently learning **Reactjs, nodejs, express framework**
-
-- 📫 How to reach me **priyanshu402muz@gmail.com**
-
-- <div align="centre">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prkr-28&show_icons=true&locale=en&layout=compact" alt="prkr-28" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prkr-28&show_icons=true&locale=en" alt="prkr-28" /></p>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prkr28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prkr28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prkr28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prkr28" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/priyanshufzqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/priyanshufzqi/?_gl=1*12xhwuc*_up*mq..*_gs*mq..&gclid=cj0kcqia3sq6bhd2arisaj8mrwxy6dxeseh1rffwh4qgjyi-ebm0j8bgdq45bwk071awict92dtia_oaakf2ealw_wcb" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 🌟 About Me
+- 👋 Hey! I am **Priyanshu**
+- 🌱 Currently learning **React.js, Node.js, Express**
+- 💡 Love building **modern full-stack apps** and solving coding challenges
+- 📫 Reach me at: **priyanshu402muz@gmail.com**
 
-# 📈 LeetCode
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/prkr28" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/prkr28" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/priyanshufzqi/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,c,firebase,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prkr-28&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkr-28&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&theme=radical" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🧩 Competitive Coding
 <div align="center">
   
   [![Priyanshu's LeetCode](https://leetcard.jacoblin.cool/prkr28?theme=unicorn&font=Nunito%20Sans)](https://leetcode.com/prkr28)
   
 </div>
 
-<div align="centre">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&" alt="prkr-28" /></p>
-</div>
+---
+
+### ⚡ Fun Fact
+💡 "I believe in learning by building — the best way to grow as a developer is by creating real-world projects 🚀"
