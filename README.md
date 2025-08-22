@@ -44,9 +44,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkr-28&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&theme=radical" alt="Streak Stats"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prkr-28&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  
+</div>
 
 ---
 
