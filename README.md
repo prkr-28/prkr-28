@@ -1,12 +1,15 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2042D&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="800" height="500">
 </p>
 
 
