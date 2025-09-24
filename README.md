@@ -68,5 +68,14 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/prkr-28/prkr-28/output/snake.svg" alt="Snake animation" />
+
+---
+
 ### ⚡ Fun Fact
 💡 "I believe in learning by building — the best way to grow as a developer is by creating real-world projects 🚀"
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
