@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="800" height="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="800" height="400">
 </p>
 
 
@@ -47,9 +47,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prkr-28&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkr-28&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prkr-28&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkr-28&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkr-28&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   
@@ -57,14 +61,19 @@
   
 </div>
 
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy Showcase" />
+</div> -->
+
 ---
 
 ### 🧩 Competitive Coding
 <div align="center">
-  
-  [![Priyanshu's LeetCode](https://leetcard.jacoblin.cool/prkr28?theme=unicorn&font=Nunito%20Sans)](https://leetcode.com/prkr28)
-  
+
+  [![Priyanshu's LeetCode](https://leetcard.jacoblin.cool/prkr28?theme=transparent&font=Zen%20Dots&ext=contest&background=transparent)](https://leetcode.com/prkr28)
+
 </div>
+
 
 ---
 
