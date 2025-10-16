@@ -8,9 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prkr-28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="800" height="400">
-</p>
 
 
 ---
@@ -64,6 +61,17 @@
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy Showcase" />
 </div> -->
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prkr28)](https://holopin.io/prkr28)
 
 ---
 
