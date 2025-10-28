@@ -129,6 +129,7 @@
 
 
 ---
+## 🎮 Snake eating my contributions!
 
 <img src="https://raw.githubusercontent.com/prkr-28/prkr-28/output/snake.svg" alt="Snake animation" />
 
