@@ -87,7 +87,7 @@
 
 ---
 
-## 🍺h Hacktoberfest-2025
+## 🍺 Hacktoberfest-2025
 [![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prkr28)](https://holopin.io/prkr28)
 
 ---
