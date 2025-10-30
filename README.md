@@ -87,6 +87,18 @@
 
 ---
 
+## 🍺h Hacktoberfest-2025
+[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prkr28)](https://holopin.io/prkr28)
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prkr-28&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
@@ -106,17 +118,6 @@
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy Showcase" />
 </div> -->
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prkr-28&theme=onedark&no-frame=true&row=1" />
-</p>
-
----
-
-[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prkr28)](https://holopin.io/prkr28)
 
 ---
 
