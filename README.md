@@ -16,7 +16,7 @@
 ### 🌟 About Me
 - 👋 Hey! I am **Priyanshu**
 - 🌱 Currently learning **React.js, Node.js, Express**
-- 💡 Love building **modern full-stack apps** and solving coding challenges
+- 💡 Loves building **modern full-stack apps** and solving coding challenges
 - 📫 Reach me at: **priyanshu402muz@gmail.com**
 
 ---
