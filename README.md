@@ -1,5 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=ffffff&animation=FadeIn" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2042D&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Full+Stack+Developer" alt="Typing SVG" />
 </p>
