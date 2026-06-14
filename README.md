@@ -111,7 +111,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prkr-28&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+ <img alt="rioryugen GitHub contribution activity graph - open source developer" src="https://github-readme-activity-graph.vercel.app/graph?username=prkr-28&bg_color=0D1117&color=00F7FF&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=rioryugen%20Contribution%20Graph"/>
   
 </div>
 
