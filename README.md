@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=ffffff&animation=FadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header"  />
 </p>
-<h3 align="center">Full Stack Developer | Problem Solver | Open Source Contributor
-</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2042D&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Full+Stack+Developer" alt="Typing SVG" />
 </p>
