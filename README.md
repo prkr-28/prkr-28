@@ -8,7 +8,7 @@ Hi, I'm Priyanshu Kumar!
 - 🔭 I’m currently a student🌱! 
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies ❤
-- 👯 I’m looking to collaborate with other creators 🙌
+- 👯 I’m looking to collaborate with other coders 🙌
 - 🚀 One day I will see humans on Mars! 🚀
 - ⚡ Fun fact: I love traversing! ❣
 - 🎵 Love metal, rock, jazz and blues. 🎵
