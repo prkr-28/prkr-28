@@ -14,8 +14,8 @@ Hi, I'm Priyanshu Kumar!
 - 🎵 Love metal, rock, jazz and blues. 🎵
 - 🌱 Currently Learning Advanced Backend Concepts and Architectures🤸‍♂️
 - 🌟 Main languages: C/C++, Java.👨‍💻
-- 🚩 Interested in backend engineering, System Design, and Distributed Systems.🏴‍☠️ 
-- 💖 In a complicated relationship with Web-Series!📺
+- 🚩 Interested in Backend engineering, System Design, and Distributed Systems.🏴‍☠️ 
+- 💖 In a complicated relationship with Data Structures!📺
 
 <br />
 
