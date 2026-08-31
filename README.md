@@ -3,7 +3,7 @@ Hi, I'm Priyanshu Kumar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
-## I'm a Full Stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and An Explorer!<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a Full Stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and An Explorer!<img align="right" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with knowledge in multiple fields! 🤞
 - 🔭 I’m currently a student🌱! 
 - 🌱 I’m currently learning everything 🤣
